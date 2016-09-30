@@ -1,0 +1,84 @@
+body{
+    font-family: sans-serif;
+  
+    
+    
+}
+
+div .left{
+    
+    float: left;
+    width: 30%;
+    height: 90px;
+    text-align: right;
+    font-style: italic;
+    border-right: 2px gray solid;
+    padding-right: 1em;
+    padding-top: 0;
+    vertical-align: text-top;
+    
+}
+
+div .right{
+    
+    margin-left: 30%;
+    padding-left: 2.5em;
+   
+    
+}
+
+div .heading{
+    font-weight: bold;
+}
+
+.block{
+    padding-bottom: 10px;
+}
+
+.right-heading{
+    font-size: 1.1em;
+    
+}
+
+#summary{
+    font-style: italic;
+    color: gray;
+    font-family: Junction ;
+    width: 60%;
+}
+
+#email{
+    color: gray;
+    text-decoration:  underline ;
+    text-decoration-style:dotted; /*only Firefox compatible*/
+}
+
+img{
+    position: absolute;
+    float: right;
+    margin-left: 30%;
+    Width: 15%;
+    height: 40%;
+    border: 5px white solid;
+    border-radius: 10px;
+    transform: rotate(-5deg);
+    box-shadow: 1px 1px 3px 3px rgba(0, 0, 0, .2);
+   }
+   
+#outline{
+   width: 50%;
+   margin: auto;
+   
+  
+}
+
+#position{
+    font-weight: normal;
+    font-style: italic;
+    color: gray;
+    font-family: Junction ;
+    text-align: right;
+    font-size: 90%;
+    margin-left: 5em;
+  
+}
